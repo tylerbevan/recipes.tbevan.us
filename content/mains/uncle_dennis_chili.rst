@@ -4,7 +4,7 @@ Uncle Dennis's Chili
 
 :date: 2019-11-26
 :modified: 2019-11-26
-:category: main-dishes
+:category: Main Dishes
 :slug: uncle-dennis-chili
 :summary: Uncle Dennis's Chili
 

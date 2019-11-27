@@ -4,7 +4,7 @@ Butternut Squash Mac & Cheese
 
 :date: 2019-11-26
 :modified: 2019-11-26
-:category: side-dishes
+:category: Sides
 :slug: butternut-squash-mac-cheese
 :summary: Butternut Squash Mac and Cheese
 

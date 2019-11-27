@@ -4,7 +4,7 @@ Butternut Squash Soup
 
 :date: 2019-11-26
 :modified: 2019-11-26
-:category: side-dishes
+:category: Sides
 :slug: butternut-squash-soup
 :summary: Butternut Squash Soup
 
