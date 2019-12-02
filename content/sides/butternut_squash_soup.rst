@@ -28,14 +28,14 @@ Ingredients
 *************
 Instructions
 *************
-  In a large Dutch oven, melt butter over medium-high heat. Add onion; cook 
-  until translucent, about 5 minutes. Add garlic; cook 1 minute. Stir in carrot
-  and celery; cook 5 minutes more. Add squash, broth, apple, thyme, salt,
-  curry, and pepper; bring to a boil. Reduce heat to low, and simmer until
-  vegetables are tender, about 25 minutes.
-  
-  Remove and discard thyme. Working in batches, transfer vegetables to the
-  container of a blender using a slotted spoon; purée until smooth. Reserve 1
-  cup broth. Return puréed vegetables and reserved broth to pot; reheat over
-  medium heat. Garnish with thyme and cream, if desired.
+In a large Dutch oven, melt butter over medium-high heat. Add onion; cook 
+until translucent, about 5 minutes. Add garlic; cook 1 minute. Stir in carrot
+and celery; cook 5 minutes more. Add squash, broth, apple, thyme, salt,
+curry, and pepper; bring to a boil. Reduce heat to low, and simmer until
+vegetables are tender, about 25 minutes.
+
+Remove and discard thyme. Working in batches, transfer vegetables to the
+container of a blender using a slotted spoon; purée until smooth. Reserve 1
+cup broth. Return puréed vegetables and reserved broth to pot; reheat over
+medium heat. Garnish with thyme and cream, if desired.
 

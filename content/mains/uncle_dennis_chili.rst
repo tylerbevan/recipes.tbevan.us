@@ -31,14 +31,14 @@ Ingredients
 *************
 Instructions
 *************
-  Brown beef and sausage together in skillet; drain in strainer then add to large
-  pot. Add onions, peppers, and garlic to hot skillet with touch of oil. Cook
-  until onions are translucent. Add everything to pot, simmer at low temp for
-  1 - 2 hours.
+Brown beef and sausage together in skillet; drain in strainer then add to large
+pot. Add onions, peppers, and garlic to hot skillet with touch of oil. Cook
+until onions are translucent. Add everything to pot, simmer at low temp for
+1 - 2 hours.
 
 ------
 Notes
 ------
-  Can also be cooked in a slow cooker on low for 4 - 6 hours, skip cooking
-  onion and peppers in skillet.
+Can also be cooked in a slow cooker on low for 4 - 6 hours, skip cooking
+onion and peppers in skillet.
 
