@@ -21,12 +21,11 @@ Ingredients
  * 1 1/2 teaspoons kosher salt
  * 1 (11-ounce) package butterscotch morsels
  * 1 cup chopped pecans
- * Vanilla ice cream (optional)
 
 ************
 Instructions
 ************
-Preheat oven to 375°.
+Preheat oven to 350°.
 In a large bowl, beat butter and sugars with a mixer at high speed until
 fluffy, 3 to 4 minutes, stopping occasionally to scrape sides of bowl.
 Add eggs, one at a time, beating well after each addition. Beat in vanilla
@@ -35,8 +34,7 @@ In a medium bowl, whisk together flour, baking powder, and salt. With mixer
 on low, gradually add flour mixture to butter mixture, beating just until
 combined. Stir in butterscotch and pecans. Spread in 12" skillet.
 
-Bake until lightly browned, about 45 minutes. Let cool for 15 minutes.
-Serve with ice cream, if desired.
+Bake for 40 minutes, cover with foil, and bake 15 more minutes. Let cool for 30 minutes before slicing.
 
 -----
 Notes

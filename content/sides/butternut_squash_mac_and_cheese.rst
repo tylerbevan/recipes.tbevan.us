@@ -11,44 +11,55 @@ Butternut Squash Mac & Cheese
 ************
 Ingredients
 ************
- * 4 cups peeled and cubed butternut squash
- * 1 teaspoon olive oil
- * 2 teaspoons kosher salt, divided
+ * 2 1/2 - 3 lb butternut squash, cubed to 1"
+ * 2 teaspoon olive oil
+ * 3/4 teaspoons kosher salt, divided
  * 1/2 teaspoon ground black pepper, divided
  * 3 tablespoons unsalted butter
- * 24 fresh sage leaves
  * 3 tablespoons all-purpose flour
- * 3 1/2 cups whole milk
- * 1/2 teaspoon ground nutmeg
- * 1 1/2 cups grated Cheddar cheese, divided
- * 1/2 cup grated Gouda cheese
- * 1/2 cup grated Fontina cheese
- * 1 tablespoon chopped fresh sage
- * 2 cups penne pasta, cooked
- * 1/4 cup Panko bread crumbs
- * For Garnish: fresh sage leaves, ground black pepper
+ * 2 1/2 cups whole milk
+ * 1/4 teaspoon ground mustard
+ * 1/4 teaspoon Worchestershire sauce
+ * 2 cups grated Cheddar cheese
+ * 1 cup grated Gouda cheese
+ * 1 cup grated Brie cheese
+ * 6 slices bacon, cooked and diced
+ * 8 ounces dry penne pasta, cooked per box directions
+ * 16 Ritz crackers, crushed
 
 *************
 Instructions
 *************
-Preheat oven to 425°. Line a rimmed baking sheet with parchment paper.
-In a medium bowl, stir together squash, oil, 1/4 teaspoon salt, and 
-1/4 teaspoon pepper. Place squash in a single layer on prepared pan.
-Bake until tender, about 30 minutes. Set aside. Increase oven to 450°.
-In a 10-inch cast-iron skillet, melt butter over medium heat. Add sage
-leaves; cook until crisp, about 1 minute. Using a slotted spoon, remove
-sage. Chop, and set aside.
+Preheat oven to 425°.
+In a rimmed baking sheet, stir together squash, oil, 1/4 teaspoon salt, and 
+1/4 teaspoon pepper.
+Bake until tender, 20-25 minutes. Set aside. Reduce oven to 400°.
 
+In a 12-inch cast-iron skillet, melt butter over medium-high heat.
 Add flour to skillet, whisking to combine. Cook, whisking constantly, 
-about 1 minute. Add milk, remaining 1 3/4 teaspoons salt, remaining 1/4
-teaspoon pepper, and nutmeg, whisking until smooth. Cook, stirring
-frequently, until thickened, about 5 minutes. Reduce heat to low.
+about 1 minute or until flour scent turns nutty. Gradually add milk, remaining 
+salt, pepper, mustard, and Worchestershire, whisking until smooth. Cook,
+stirring frequently, until thickened, about 5 minutes. Congrats! You made
+a bechamel sauce, which is the base of all good creamy sauces. 
 
-Add cheese slowly, while reserving 1/4 cup total, stirring until melted.
-Add fried sage, fresh sage, cooked pasta, and roasted squash, stirring
-gently to combine. Remove from heat. Sprinkle with remaining 1/4 cup 
-cheese and then panko.
+**Reduce heat to low**.
+Add cheese **slowly**, while reserving 1/2 cup of the cheddar, stirring until 
+consistent. Add bacon (and chives if desired). Remove from heat.
+Add cooked pasta, and roasted squash, stirring gently to combine. 
+Sprinkle with remaining cheese and then top with the crushed crackers.
 
-Bake until cheese melts and top is golden brown, about 8 minutes.
-Garnish with sage and pepper, if desired.
+Bake until cheese melts and top is golden brown, about 10 minutes.
+Allow to rest at least 10 minutes before serving.
 
+*****
+Tips
+*****
+If you want an even more earthy flavor, add sage, terragon, or rosemary
+along with the milk and spices. For more kick, add red pepper or chili
+powder. *Don't use pre-shredded cheese.* The additive that keeps it from
+sticking together prevents the sauce from forming correctly. Always buy
+blocks and shred it yourself when making cheese sauces.
+
+The most important thing is to not get the sauce too hot or
+add the cheese too fast. Either way can cause the sauce to go grainy
+and oily. It still tastes good, but not as smooth and creamy.
