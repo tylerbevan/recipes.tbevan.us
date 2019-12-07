@@ -3,10 +3,15 @@ Butternut Squash Soup
 ######################
 
 :date: 2019-11-26
-:modified: 2019-11-26
+:modified: 2019-12-06
 :category: Sides
 :slug: butternut-squash-soup
 :summary: Butternut Squash Soup
+
+.. image:: https://tbevanphotos.sfo2.digitaloceanspaces.com/recipes/butternut_squash_soup.jpg
+   :width: 75%
+   :align: center
+   :alt: Recipe Image
 
 ************
 Ingredients
