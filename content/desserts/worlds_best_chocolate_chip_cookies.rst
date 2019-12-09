@@ -8,6 +8,11 @@ World's Best Chocolate Chip Cookies
 :slug: best-chocolate-chip-cookie
 :summary: Best Chocolate Chip Cookies
 
+.. image:: https://tbevanphotos.sfo2.digitaloceanspaces.com/recipes/best_cc_cookie.jpg
+   :width: 75%
+   :align: center
+   :alt: Recipe Image
+
 ************
 Ingredients
 ************
@@ -15,7 +20,7 @@ Ingredients
  * 1 stick margarine, softened
  * 3/4 cup white sugar
  * 1 cup tightly packed light brown sugar
- * 1 1/2 Tablespoons Real Vanilla, (Mexican or Madagascar pref.)
+ * 1  Tablespoon **Real** Vanilla (Mexican or Madagascar is best)
  * 2 eggs
  * 3/4 teaspoon salt
  * 3/4 teaspoon baking soda
@@ -29,6 +34,6 @@ Preheat oven to 350F. Beat shortening and margarine with sugars until fluffy.
 Mix in vanilla and eggs until well blended. Add flour, salt, and baking soda
 slowly while mixing well. Stir in chocolate chips.
 
-Preferred to cook on a baking stone for 13-14 minutes. Allow to cool a few
+Preferred to cook on a baking stone for 14 minutes. Allow to cool a few
 minutes before moving to a cooling rack. If using a metal sheet pan, line with
-baking parchment and cook for 11-12 minutes instead.
+baking parchment.
