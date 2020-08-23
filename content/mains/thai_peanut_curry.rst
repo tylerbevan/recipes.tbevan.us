@@ -19,8 +19,10 @@ Ingredients
  * 4 large chicken breasts (cooked and chopped)
  * 1/8 cup red curry paste
  * 3 tbsp sesame oil
+ * 3 large garlic cloves, diced
+ * 2 tbsp gresh ginger, grated fine
  * 1 large sweet onion, diced
- * 1 green bell pepper, diced
+ * 1 red bell pepper, diced
  * 1 poblano pepper, diced
  * 2 zucchini, chopped
  * 8 ounce coconut milk
@@ -35,10 +37,10 @@ Ingredients
 Instructions
 *************
 Heat sesame oil and curry paste in sauce pot over medium heat until curry paste and
-sesame oil have mixed and curry paste has broken down. Add onion to pot and simmer
-until onion starts to turn clear. Add coconut milk, peanut butter, and chicken stock
+sesame oil have mixed and curry paste has broken down. Add onion and garlic to pot and simmer
+until onion starts to turn clear. Add coconut milk, peanut butter, ginger, and chicken stock
 to the pot. Bring to a simmer and reduce heat to low. Salt to taste; I like it on the
-salty side because the veggies will offset it.
+salty side because the veggies will offset the salt.
 
 Combine peppers, zucchini, and 1/4 cup water in microwave safe bowl and steam in microwave until
 just cooked. Add chicken and vegetables to a large stock pot. Ladle peanut sauce into pot
